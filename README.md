@@ -1,2 +1,2 @@
 # Aprajita24x7
-AI_Dropout_preduction and Counseling System
+AI_Dropout_prediction and Counseling System
